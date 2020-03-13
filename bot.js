@@ -155,7 +155,7 @@ client.on("message", async message => {
             معلومات عن السيرفر : ${prefix}server
             برودكاست للأونلاين فقط : ${prefix}bco
             يعرض لك عدد المتبندين من سيرفرك : ${prefix}banned
-            مع تحيات 『♛القائد آبۗـو عۗـبۗـدآلَلَهۗہ♛』
+            مع تحيات سيرفر 𝗔𝗥𝗔𝗕 𝗦𝗨𝗟𝗚𝗘𝗥』
             **`);
             message.channel.sendEmbed(help); // رابط السيرفر يعود الى سيرفر CODES .
     }
